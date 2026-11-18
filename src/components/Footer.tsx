@@ -9,7 +9,7 @@ const Foot = styled.footer`
 `;
 
 function Footer() {
-    return <Foot>Copyright 2026 </Foot>;
+    return <Foot>Copyright 2026 Practice</Foot>;
 }
 
 export default Footer;
